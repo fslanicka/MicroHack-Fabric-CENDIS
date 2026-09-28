@@ -20,7 +20,7 @@ If not stored, use these credentials to access the ADLS gen2:
 
 | **Item** | **Value** |
 |:---------|:----------|
-| **URL** | `https://adlstfabricmicrohacksw.dfs.core.windows.net/` |
+| **URL** | `https://hackatonms2026.blob.core.windows.net/` |
 | **Auth. kind** | Organization account. |
 
 In my case, I have chosen the pre-configured connection:

@@ -26,7 +26,7 @@ The pipeline canvas is shown and Copy data activity is added onto it. On this ca
 | **Item** | **Property** | **Value** |
 |:--------------|:-------------|:----------|
 | **Source** | Type | Azure Blob Storage |
-| | URL | `https://stfabricmicrohacksw.blob.core.windows.net/` |
+| | URL | `https://hackatonms2026.blob.core.windows.net/` |
 | | Auth. kind | Sign-in with your current account |
 | | Format | **Binary** |
 | **Destination** | Type | Lakehouse |
@@ -65,7 +65,7 @@ So locate your lakehouse, where the Shortcut should appear:
 | **Property** | **Value** |
 |:-------------|:----------|
 | **Service Type** | Azure Data Lake Gen2 |
-| **URL** | `https://adlstfabricmicrohacksw.dfs.core.windows.net/` |
+| **URL** | `https://hackatonms2026.blob.core.windows.net/` |
 | **Authentication kind** | Organizational account |
 
 
