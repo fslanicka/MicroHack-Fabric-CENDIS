@@ -15,7 +15,7 @@ By the end of the challenge, you will have completed the implementation of the [
 
 - Create the 3rd lakehouse: **goldcurated**
 - Create Shortcut in your Lakehouse into **Tables** area to pre-created delta tables:  **dimLocations, dimpaymenttype, dimratecode, dimvendor** from Azure Data Lake Gen2 (Container: **dimensions**):
-	- https://adlstmsfabricmicrohacksw.dfs.core.windows.net/ 
+	- https://hackatonms2026.blob.core.windows.net/ 
 		- Authentication kind: **Organizational account**
 - Import [**challenges/ch05/Transform silver to gold - Ch05.ipynb**](/challenges/ch05/Transform%20silver%20to%20gold%20-%20Ch05.ipynb) to you workspace and try to complete all Goals / Actions mentioned in notebook
 	- Remove origin lakehouses from Notebook and Add/attach your **silvercleansed** (as default) lakehouse and **goldcurated** lakehouse

@@ -22,7 +22,7 @@ By the end of the challenge, you will have completed the first step, the bronze 
 
 - Create Pipeline: Ingest Green Taxi 2015
 	- With Copy Activity to Ingest Data:
-		- Source: Azure Blob Storage: https://stmsfabricmicrohacksw.blob.core.windows.net/
+		- Source: Azure Blob Storage: https://hackatonms2026.blob.core.windows.net/
 			- Authentication kind: **Organizational account**
 			- File path: 
 				- Container: **taxidata**
@@ -33,7 +33,7 @@ By the end of the challenge, you will have completed the first step, the bronze 
 			- Format: **Binary**
     
 - Create Shortcut in your Lakehouse into **Files > Landing** to **2023** Container from Azure Data Lake Gen2: 
-	- https://adlstmsfabricmicrohacksw.dfs.core.windows.net/ 
+	- https://hackatonms2026.blob.core.windows.net/ 
 		- Authentication kind: **Organizational account**
 
 ## Success Criteria

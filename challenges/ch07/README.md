@@ -26,7 +26,7 @@ There are two options, (1) without Data Preparation tasks and (2) with Data Prep
 **1. without Data Preparation tasks:**
 - You can create new lakehouse for Sandboxing or use your **goldcurated** lakehouse.
 - Create Shortcut in your Lakehouse into **Tables** area to pre-created delta table:  **NY_places_customer_reviews_parsed** from Azure Data Lake Gen2 (Container: **reviews** ):
-	- https://adlstmsfabricmicrohacksw.dfs.core.windows.net/ 
+	- https://hackatonms2026.blob.core.windows.net/ 
 		- Authentication kind: **Organizational account**
 - Import [**challenges/ch07/User reviews processing with LLM - AI Functions - Ch07.ipynb**](/challenges/ch07/User%20reviews%20processing%20with%20LLM%20-%20AI%20Functions%20-%20Ch07.ipynb) to your workspace and try to complete all Goals / Actions mentioned in that notebook
     - Remove origin lakehouses from Notebook and Add/attach your **goldcurated** (as default) lakehouse 
