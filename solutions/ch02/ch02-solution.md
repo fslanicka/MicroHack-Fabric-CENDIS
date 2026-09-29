@@ -64,7 +64,7 @@ So locate your lakehouse, where the Shortcut should appear:
 
 | **Property** | **Value** |
 |:-------------|:----------|
-| **Service Type** | Azure Data Lake Gen2 |
+| **Service Type** | Azure Blob Storage |
 | **URL** | `https://hackatonms2026.blob.core.windows.net/` |
 | **Authentication kind** | Organizational account |
 
